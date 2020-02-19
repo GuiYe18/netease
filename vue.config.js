@@ -14,6 +14,7 @@ module.exports = {
             ]
           }
         }
+
       },
       devServer: {
         proxy: {
@@ -27,5 +28,6 @@ module.exports = {
           }
         }
       }
+
 
 }

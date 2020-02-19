@@ -5,6 +5,7 @@
 </template>
 
 <script type="text/ecmascript-6">
+
 import{getHomeDatas} from '../../api'
 
   export default {
@@ -13,6 +14,7 @@ import{getHomeDatas} from '../../api'
         console.log(result)
       }
   }
+
 </script>
 
 <style scoped>

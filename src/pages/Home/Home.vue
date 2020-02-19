@@ -1,4 +1,5 @@
 <template>
+
   <div id="homeContainer">
     <!-- 置顶内容 -->
     <div class="Sticky">
@@ -124,13 +125,5 @@ export default {
           width 40px
           height 6px
           border-radius: 20%
-
-
- 
-
-
-
-
-
 
 </style>
