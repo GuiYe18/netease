@@ -1,3 +1,4 @@
 export default{
-    initData:'duhfygdsighrf'
+    initData:'duhfygdsighrf',
+    address:'',//导航分类列表
 }
